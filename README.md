@@ -1,4 +1,7 @@
-# Olá, Bem vindo ao meu projeto de portfólio!!
+# Olá, Bem vindo ao meu projeto de portfólio,onde conto um pouco ...
+* Sobre mim
+* Minhas experiências
+* Meus certificados
 
 ## Ferramentas utilizadas:
 
@@ -6,7 +9,7 @@
 
 * CSS
 
-* Flex-box
+* JavaScript
 
 ## Feito por:
 
