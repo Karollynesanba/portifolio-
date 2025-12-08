@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (footer) {
         const textoOriginal = footer.textContent;
         footer.addEventListener('mouseenter', function() {
-            this.innerHTML = '<p><strong>💻 Feito com HTML, CSS e JavaScript</strong></p>';
+            this.innerHTML = '<p><strong>Feito com HTML, CSS e JavaScript</strong></p>';
         });
         
         footer.addEventListener('mouseleave', function() {
@@ -68,8 +68,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function mostrarDataHora() {
     const agora = new Date();
-    console.log(`📅 Página carregada em: ${agora.toLocaleString('pt-BR')}`);
+    console.log(` Página carregada em: ${agora.toLocaleString('pt-BR')}`);
 }
+
 
 
 window.onload = mostrarDataHora;
